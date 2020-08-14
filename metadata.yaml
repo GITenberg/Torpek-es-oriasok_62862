@@ -1,0 +1,32 @@
+_repo: Torpek-es-oriasok_62862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ambrus, Zoltán
+    alias: Ambrus, Zoltan
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '34456'
+    url: http://www.gutenberg.org/2009/agents/34456
+    wikipedia: http://hu.wikipedia.org/wiki/Ambrus_Zolt%C3%A1n_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2020-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62862'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: A költő -- Rendelő óra -- Két külön világ -- A tücsök és a hangya
+  -- Homo duplex -- Tél -- Több szerelmet! -- Az igazi -- Czigányok -- A biczikli-király
+  -- Nyári est -- A jaguár és a kigyó -- Az igazság -- Fű a romok közt -- Pierrot
+  és Pierrette -- Vándor -- Alkonyat -- Peabody -- Az utolsó nap -- Haladás -- Ábránd
+  -- Halmozók -- Ottokár élete és halála.
+title: Törpék és óriások
+url: http://www.gutenberg.org/ebooks/62862
